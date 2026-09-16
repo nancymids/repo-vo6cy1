@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · L9XLt9mV -->
-## Notification 1/2
-Round: Round 1
-To: dvaughn0101@yahoo.com, patricksnodgrass@gmail.com
-At: 2026-09-16 14:36:15
-Id: L9XLt9mV
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: you_wish_it_was_you3@yahoo.com, thepetpatio@aol.com
+At: 2026-09-16 14:36:23
+Id: xPZZ8BxV
